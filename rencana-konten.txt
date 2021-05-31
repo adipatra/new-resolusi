@@ -5,3 +5,5 @@
 3. Notifikasi pengaduan via :
   - Whatsapp
   - Telegram
+  - SMS
+  - Aplikasi lawang beltim
