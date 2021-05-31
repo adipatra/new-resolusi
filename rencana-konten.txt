@@ -2,3 +2,6 @@
   -laravel
   -bootstrap
 2. membuat website pengaduan
+3. Notifikasi pengaduan via :
+  - Whatsapp
+  - Telegram
