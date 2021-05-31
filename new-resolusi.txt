@@ -3,4 +3,4 @@ New Resolusi
 - membuat konten untuk aktualisasi
 - membuat aplikasi untuk pengaduan
 - mengumpulkan bukti fisik untuk AK
-
+- membuat laporan AK
